@@ -23,7 +23,8 @@ Admin Dashboard- Frontend (Application visible to Admin)
  
 # HOW TO RUN IT ON YOUR PC # 
 
-1. Pull/clone from the GitHub Repository https://github.com/virslaan/Food-Delivery-Application-Full-Product-OmniFood-SPA-Admin-Dashboard-Rest-APIS(Backend folder)
+1. Pull/clone from the GitHub Repository https://github.com/virslaan/Food-Delivery-Application-Full-Product-OmniFood-SPA-Admin-Dashboard-Rest-APIS
+(Backend folder)
 
 2.Open Eclipse IDE---->Right Click and Import from Menu Bar ----> Existing Maven Project.
 
