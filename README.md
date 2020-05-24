@@ -10,7 +10,8 @@ The Dashboard has advanced Analytics and Predictive features exclusively added t
 ## Need A REST API(Backend) 
 For managing dependencies of ONE TO MANY RELATIONSHIP standards here it is!A smooth API to solve your Problem of BACKEND
 
-***STEPS TO FOLLOW ***
+***STEPS TO FOLLOW
+
 Home Client -Frontend (Application visible to Client)
 Admin Dashboard- Frontend (Application visible to Admin)
 
@@ -37,7 +38,8 @@ Once step 4 has been executed Successfully , go to BACKEND and run java applicat
 6.REMEMBER to provide the used schema is mentioned in MYSQL as well
 
 7.Now -- ng serve the HOME Client application on the Terminal and --ng serve port:4401 on Admin
-***Wollah! The OMNIFOOD IS LIVE ON http://localhost:4200
+
+**Wollah! The OMNIFOOD IS LIVE ON http://localhost:4200
 
 #### WARNING -ANY CODE COPYING FROM THE REPOSITORY WILL BE NOT BE LEGALISED , IF THE OWNER NAME IS NOT MENTIONED WHERE THE CODE IS REUSED (If caught it's trully shameful and not appreciable)
 KINDLY MENTION REPOSITORY NAME WHEREEVER BEING USED !
